@@ -1,0 +1,13 @@
+{
+	"fullName": "Romy Fadly",
+	"ava": "img/tnromy.jpg",
+	"linkYoutube": "https://www.youtube.com/channel/UC62vbf6Uq9xtE9KVtTM03jA",
+
+	"linkGithub": "https://github.com/tnromy",
+
+	"linkInstagram": "https://www.instagram.com/tnromy/",
+
+	"linkLinkedin": "https://www.linkedin.com/in/tnromy/",
+
+	"email": "tuanromy@gmail.com"
+}
