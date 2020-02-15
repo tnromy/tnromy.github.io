@@ -43,7 +43,7 @@
 
       
       .cv-m-2 {
-        margin-top: 190px;
+        margin-top: 185px;
       }
 
       .cv-m-3 {
@@ -73,12 +73,26 @@
         background-color: #f06767;
         color: white;
       }
+
+      .cv-skills {
+        width: 100%;
+      }
+
+      .cv-btn-smoke {
+        background-color: #cbced4;
+        color: black;
+      }
+
+      .cv-h-4 {
+        height: 250px;
+      }
     </style>
 
   </head>
   <body class="cv-bg-body">
-    <div class="container bg-light px-4">
+    <div class="container pb-4 bg-light px-4">
       <div class="row">
+
         <div class="col col-lg-12">
           <div class="row">
             <div class="col col-lg-12 cv-bg-darkblue cv-h-1">
@@ -90,12 +104,23 @@
                 </div>
 
                 <div class="col-12 col-lg-5 d-none d-lg-block cv-m-2">
-                  <h2 class="text-white" id="cv-full-name">
+                  <h2 class="cv-full-name text-white">
                   </h2>
+                  <p class="mt-n2 text-white">
+                    <i>Born : <span class="cv-born"></span></i>
+                  </p>
                 </div>
 
                 <div class="col col-lg-4 cv-m-3">
 <div class="row">
+  <div class="col-12 col-lg-12">
+    <h2 class="cv-full-name text-dark d-lg-none d-md-none"></h2>
+
+    <p class="mt-n2 text-secondary">
+      <i>Born : <span class="cv-born"></span></i>
+    </p>
+  </div>
+
   <div class="col-12 col-lg-12">
     <label class="text-light">Find me on :</label>
     <br>
@@ -129,20 +154,114 @@
             </div>
           </div>
           <!-- akhir row 1 -->
-        </div>
-        <!-- akhir row header -->
+        </div>        
+      </div>
+      <!-- akhir row header -->
+      
+      <div class="row">
+        <div class="col-12 cv-h-4 d-lg-none d-md-none"></div>
+      </div>
+      <div class="row">
+          <div class="col col-lg-12 mt-5">
+            <dl>
+              <dt>
+                <h2 class="text-secondary">
+                  Skills & Tools
+                </h2>
+              </dt>
 
+              <dd>
+<div class="accordion" id="cv-skill-tools">
+  <div class="card mx-5">
+    
+    
+    <div class="card-header" id="cv-skill-heading-1">
+      <h2 class="mb-0">
+        <button class="btn btn-lg btn-link btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#collapse-skill-1" aria-expanded="false" aria-controls="collapse-skill-1">
+          Electro & Robotic
+        </button>
+      </h2>
+    </div>
+    <div id="collapse-skill-1" class="collapse" aria-labelledby="cv-skill-heading-1" data-parent="#cv-skill-tools">
+      <div class="card-body">
         <div class="row">
-          <div class="col col-lg-12 mt-5 bg-danger">
-            <h2 class="text-secondary">
-              Skill & Tools
-            </h2>
-
-            <hr>
+          <div class="col-12 col-lg-6" id="cv-electro-skills">
+            <h5 class="text-center">
+              Skills :
+            </h5>
           </div>
-          <!-- akhir col skill & tools -->
+          <div class="col-12 col-lg-6" id="cv-electro-tools">
+            <h5 class="text-center">
+              Tools :
+            </h5>
+          </div>
         </div>
       </div>
+    </div>
+  
+
+
+    
+    <div class="card-header" id="cv-skill-heading-2">
+      <h2 class="mb-0">
+        <button class="btn btn-lg btn-link btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#collapse-skill-2" aria-expanded="false" aria-controls="collapse-skill-2">
+          Server Engineering
+        </button>
+      </h2>
+    </div>
+    <div id="collapse-skill-2" class="collapse" aria-labelledby="cv-skill-heading-2" data-parent="#cv-skill-tools">
+      <div class="card-body">
+        <div class="row">
+          <div class="col-12 col-lg-6" id="cv-server-skills">
+            <h5 class="text-center">
+              Skills :
+            </h5>
+          </div>
+          <div class="col-12 col-lg-6" id="cv-server-tools">
+            <h5 class="text-center">
+              Tools :
+            </h5>
+          </div>
+        </div>
+      </div>
+    </div>
+  
+  
+    
+    <div class="card-header" id="cv-skill-heading-3">
+      <h2 class="mb-0">
+        <button class="btn btn-lg btn-link btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#collapse-skill-3" aria-expanded="false" aria-controls="collapse-skill-3">
+          Software Development
+        </button>
+      </h2>
+    </div>
+    <div id="collapse-skill-3" class="collapse" aria-labelledby="cv-skill-heading-3" data-parent="#cv-skill-tools">
+      <div class="card-body">
+        <div class="row">
+          <div class="col-12 col-lg-6" id="cv-programing-skills">
+            <h5 class="text-center">
+              Programing Language :
+            </h5>
+          </div>
+          <div class="col-12 col-lg-6" id="cv-programing-tools">
+            <h5 class="text-center">
+              Programing Framework :
+            </h5>
+          </div>
+        </div>
+      </div>
+    </div>
+  
+  
+  </div>
+  
+</div>
+                
+              </dd>
+            </dl>
+          </div>
+      </div>
+      <!-- akhir row skill -->
     </div>
 
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->

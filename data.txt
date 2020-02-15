@@ -1,5 +1,6 @@
 {
 	"fullName": "Romy Fadly",
+	"born": "30 Nov 1994",
 	"ava": "img/tnromy.jpg",
 	"linkYoutube": "https://www.youtube.com/channel/UC62vbf6Uq9xtE9KVtTM03jA",
 
@@ -9,5 +10,215 @@
 
 	"linkLinkedin": "https://www.linkedin.com/in/tnromy/",
 
-	"email": "tuanromy@gmail.com"
+	"email": "tuanromy@gmail.com",
+
+	"electroSkills": {
+		"componentKnowlage": {
+			"name": "Component Knowlage",
+			"value": 95
+		},
+		"schemaDesain": {
+			"name": "Schematic Desain",
+			"value": 95
+		},
+		"pcbDesain": {
+			"name": "PCB Circuit Layout Desain",
+			"value": 95
+		}
+	},
+
+	"electroTools": {
+		"eaglePCB": {
+			"name": "EAGLE PCB",
+			"value": 95
+		},
+		"arduino": {
+			"name": "Arduino IDE",
+			"value": 98
+		},
+		"raspberryPi": {
+			"name": "Raspberry Pi",
+			"value": 98
+		},
+		"esp8266": {
+			"name": "ESP8266/ESP32",
+			"value": 95
+		},
+		"nodeMCU": {
+			"name": "NodeMCU",
+			"value": 95
+		}
+	},
+
+	"serverSkills": {
+		"linux": {
+			"name": "Linux Server",
+			"value": 98
+		},
+		"network": {
+			"name": "Network Configuration",
+			"value": 93
+		},
+		"git": {
+			"name": "Git Repository",
+			"value": 98
+		},
+		"virtualization": {
+			"name": "Virtualization Operatins System",
+			"value": 95
+		},
+		"container": {
+			"name": "Container",
+			"value": 95
+		},
+		"microSwervice": {
+			"name": "Micro Swervices",
+			"value": 70
+		}
+	},
+
+	"serverTools": {
+		"nginx": {
+			"name": "NGINX Web Server",
+			"value": 98
+		},
+		"mySQL": {
+			"name": "MySQL Server",
+			"value": 98
+		},
+		"postgreSQL": {
+			"name": "PostgreSQL Server",
+			"value": 98
+		},
+		"docker": {
+			"name": "Docker Container",
+			"value": 98
+		},
+		"openVPN": {
+			"name": "OpenVPN Server",
+			"value": 98
+		},
+		"mqtt": {
+			"name": "MQTT Server (ioT Broker)",
+			"value": 95
+		},
+		"ownCloud": {
+			"name": "OwnCloud Server",
+			"value": 98
+		},
+		"asterisk": {
+			"name": "Asterisk VoIP Gateway Server",
+			"value": 85
+		},
+		"janus": {
+			"name": "Janus WebRTC Gateway Server",
+			"value": 85
+		},
+		"freeradius": {
+			"name": "Freeradius AAA Server",
+			"value": 98
+		},
+		"squid": {
+			"name": "Squid Proxy Server",
+			"value": 95
+		},
+		"virtualbox": {
+			"name": "Virtual Box",
+			"value": 95
+		},
+		"mikrotik": {
+			"name": "Mikrotik Router OS",
+			"value": 95
+		},
+		"raspberryPi": {
+			"name": "Raspberry Pi",
+			"value": 98
+		}
+	},
+
+	"programingLang": {
+		"python": {
+			"name": "Python",
+			"value": 98
+		},
+		"php": {
+			"name": "PHP",
+			"value": 98
+		},
+		"sql": {
+			"name": "SQL",
+			"value": 95
+		},
+		"js": {
+			"name": "Javascript",
+			"value": 98
+		},
+		"goLang": {
+			"name": "GoLang",
+			"value": 93
+		},
+		"c++": {
+			"name": "C++",
+			"value": 90
+		},
+		"java": {
+			"name": "Java",
+			"value": 90
+		},
+		"microPython": {
+			"name": "Micro Python",
+			"value": 93
+		},
+		"css": {
+			"name": "CSS",
+			"value": 98
+		},
+		"html": {
+			"name": "HTML",
+			"value": 98
+		},
+		"bash": {
+			"name": "Bash Scripting",
+			"value": 98
+		}
+	},
+
+	"programingFramework": {
+		"laravel": {
+			"name": "Laravel",
+			"value": 98
+		},
+		"django": {
+			"name": "Django",
+			"value": 98
+		},
+		"ci": {
+			"name": "CodeIgniter",
+			"value": 98
+		},
+		"jquery": {
+			"name": "JQuery",
+			"value": 98
+		},
+		"kivy": {
+			"name": "Kivy",
+			"value": 90
+		},
+		"nodejs": {
+			"name": "NodeJS",
+			"value": 85
+		},
+		"bootstrap": {
+			"name": "Bootstrap",
+			"value": 98
+		},
+		"materialize": {
+			"name": "Materialize CSS",
+			"value": 98
+		},
+		"github": {
+			"name": "Github",
+			"value": 98
+		}
+	}
 }
