@@ -10,7 +10,7 @@
 
 	"linkLinkedin": "https://www.linkedin.com/in/tnromy/",
 
-	"email": "tuanromy@gmail.com",
+	"email": "tnromy@nocturlab.com",
 
 	"electroSkills": {
 		"componentKnowlage": {
