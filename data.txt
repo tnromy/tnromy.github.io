@@ -173,6 +173,10 @@
 			"name": "CSS",
 			"value": 98
 		},
+		"uiDesign": {
+			"name": "User Interface Design",
+			"value": 40
+		},
 		"html": {
 			"name": "HTML",
 			"value": 98
