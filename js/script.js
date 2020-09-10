@@ -55,4 +55,11 @@ $(document).ready(function(){
 
 	});
 
+	$.getJSON('videos.txt', 
+	function (data, textStatus, jqXHR){
+		$.each(data, function(index, value){
+			$('#cv-videos').append(' <div class="row"> <div class="col-12 col-lg-5 "> <iframe width="100%" height="280" src="'+value.src+'" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </div> <div class="col-12 col-lg-7 px-5 "> <dl> <dt> <h3>'+value.title+'</h3> </dt> <dd> <p>'+value.desc+'</p> </dd> </dl> </div> </div> ');
+		});
+	});
+
 });

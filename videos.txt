@@ -1,0 +1,72 @@
+{
+	"v18": {
+		"title": "Kini Anda Bisa Punya Aplikasi Online Meeting Sendiri",
+		"src": "https://www.youtube.com/embed/5bXjcVwT7Hs",
+		"desc": "Dengan memiliki server online meeting sendiri, Kita memiliki kuasa penuh atas kontrol peserta rapat & jaminan kerahasiaan informasi karena server hanya digunakan oleh kalangan sendiri."
+	},
+	"v17": {
+		"title": "Review Server Online Meeting Pribadi",
+		"src": "https://www.youtube.com/embed/C4dlVZeRKsk",
+		"desc": "Begini preview aplikasi online meeting dengan server yang dikelola & dimiliki sendiri."
+	},
+	"v16": {
+		"title": "Review website ownvpn.id - VPN server Indonesia",
+		"src": "https://www.youtube.com/embed/NL63nT7XGqI",
+		"desc": "Begini cara menjamin keamanan komunikasi di internet dengan VPN yang akan mengenkripsi semua komunikasi sehingga tidak bisa diretas."
+	},
+	"v15": {
+		"title": "Hati-hati Memasang Fire Alarm Pastikan Posisinya Tepat",
+		"src": "https://www.youtube.com/embed/pJ_TnKOXnGk",
+		"desc": "Perlu diperhatikan & diperhitungkan beberapa faktor dalam pemasangan detektor untuk fire alarm."
+	},
+	"v14": {
+		"title": "Masa Depan Sistem Fire Alarm Dengan Kemajuan Teknologi Internet Of Thins (ioT)",
+		"src": "https://www.youtube.com/embed/e8gpuCPdrOA",
+		"desc": "Saatnya memanfaatkan kemajuan teknologi internet of things dalam merancang sistem keamanan/fire alarm."
+	},
+	"v13": {
+		"title": "update panel admin ownvpn.id 2020/7/8",
+		"src": "https://www.youtube.com/embed/7MPvlJgwtxg",
+		"desc": "Progres terbaru panel admin ownVPN yang dapat mempermudah pengelolaan client VPN pada perusahaan."
+	},
+	"v12": {
+		"title": "admintoko.com | cara menggunakan panel admintoko.com untuk management kasir toko",
+		"src": "https://www.youtube.com/embed/lcV-Etcs1qA",
+		"desc": "Kini pelaku UMKM bisa menggunakan sistem kasir yang mempermudah berbagai pekerjaan dengan gratis."
+	},
+	"v11": {
+		"title": "VPN - eps. 5 - Cara Mengunakan Panel Admin ownVPN.id v1.0",
+		"src": "https://www.youtube.com/embed/2mDc1PAfqUA",
+		"desc": "Lihat proses pembuatan panel admin ownVPN yang akan sangat berguna untuk mengelola client VPN pada perusahaan."
+	},
+	"v10": {
+		"title": "VPN - eps. 4 - Cara menggunakan aplikasi ownVPN Client di windows",
+		"src": "https://www.youtube.com/embed/0fdZAWignZ4",
+		"desc": "Begini mudahnya penggunaan aplikasi ownVPN.id bahkan untuk pemula yang belum memiliki pengetahuan jaringan sama sekali. Hanya dengan beberapa klik sudah siap untuk digunakan."
+	},
+	"v9": {
+		"title": "car ioT - Membuat Mobil RC Dengan Kontrol Via Internet Modem 4G",
+		"src": "https://www.youtube.com/embed/Nm59TPnMDaY",
+		"desc": "Begini proses pembuatan mobil RC yang dapat dikontrol via internet. Dengan kemajuan teknologi internet of things kini berbagai hal bisa dikontrol dari internet termasuk remote control kecil sekalipun."
+	},
+	"v8": {
+		"title": "SMS of Things Part 2 - Review Alat Pengirim Nilai Sensor Otomatis",
+		"src": "https://www.youtube.com/embed/GcWra9Mw4lg",
+		"desc": "Begini hasil produk pengirim nilai sensor via SMS untuk industri yang berlokasi di wilayah sulit internet."
+	},
+	"v7": {
+		"title": "SMS of Things Part 1 - Memprogram Alat Pengirim SMS Otomatis Untuk Report Nilai Sensor",
+		"src": "https://www.youtube.com/embed/XQvmjr_11gs",
+		"desc": "Begini proses perancangan & pembuatan alat pengirim nilai sensor via SMS."
+	},
+	"v2": {
+		"title": "Apa itu VPN & cara kerja VPN",
+		"src": "https://www.youtube.com/embed/VcLl3LgkA1Q",
+		"desc": "Berbagai penjelasan dasar mengenai sistem kerja Virtual Private Network dalam mengamankan komunikasi di Internet."
+	},
+	"v1": {
+		"title": "PiCopter - Drone dengan kontrol via internet berbasis Raspberry Pi",
+		"src": "https://www.youtube.com/embed/AXA59Vj7gEs",
+		"desc": "Membuat framework flight controller untuk quad copter berbasis raspberry pi yang diberi nama 'PiCopter'"
+	}
+}
