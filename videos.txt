@@ -1,4 +1,10 @@
 {
+	"v19": {
+		"title": "Implementasi ioT Smart Home Via Kabel Ethernet + WiFi Untuk Penerapan Super Serius",
+		"src": "https://www.youtube.com/watch?v=c8NwpMvgZNs",
+		"desc": "Penggunaan ioT berbasis WiFi yang marak saat ini menimbulkan permasalahan baru yaitu frequensi WiFi yang terbatas untuk 1 kawasan tertentu. Untuk itu perlu dibuat solusi yang menggunakan kabel ethernet disamping tetap menggunakan WiFi untuk penerapan ioT pada smarthome yang serius."
+	},
+
 	"v18": {
 		"title": "Kini Anda Bisa Punya Aplikasi Online Meeting Sendiri",
 		"src": "https://www.youtube.com/embed/5bXjcVwT7Hs",
