@@ -1,4 +1,16 @@
 {
+	"v21": {
+		"title": "Pengenalan Program Document Management System",
+		"src": "https://www.youtube.com/embed/vH5yiIChueY",
+		"desc": "Ini adalah video presentasi pengenalan program Document Management System Kami yang baru"
+	},
+
+	"v20": {
+		"title": "QnA Cara Menggunakan Program Document Management System",
+		"src": "https://www.youtube.com/embed/KTgRU2_29sM",
+		"desc": "Di video ini Kita akan belajar cara menggunakan program Document Management System yang baru Kita kembangkan."
+	},
+
 	"v19": {
 		"title": "Implementasi ioT Smart Home Via Kabel Ethernet + WiFi Untuk Penerapan Super Serius",
 		"src": "https://www.youtube.com/embed/c8NwpMvgZNs",
